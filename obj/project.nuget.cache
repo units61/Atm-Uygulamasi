@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Vy5l9i7IoZFgFn4PNW2R+g0lLKbo0Z1682saNNFORxlBugyB21jD3XTt36PqloiTe3PkDL48pA7P6TA0BhYl1A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gokha\\Desktop\\Pratikler\\ATM-Uygulamasi\\ATM-Uygulamasi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gokha\\.nuget\\packages\\serilog\\2.12.0\\serilog.2.12.0.nupkg.sha512"
+  ],
+  "logs": []
+}

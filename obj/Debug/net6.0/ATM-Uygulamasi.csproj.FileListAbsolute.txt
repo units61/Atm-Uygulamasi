@@ -1,0 +1,17 @@
+C:\Users\gokha\Desktop\Pratikler\ATM-Uygulamasi\obj\Debug\net6.0\ATM-Uygulamasi.csproj.AssemblyReference.cache
+C:\Users\gokha\Desktop\Pratikler\ATM-Uygulamasi\obj\Debug\net6.0\ATM-Uygulamasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gokha\Desktop\Pratikler\ATM-Uygulamasi\obj\Debug\net6.0\ATM-Uygulamasi.AssemblyInfoInputs.cache
+C:\Users\gokha\Desktop\Pratikler\ATM-Uygulamasi\obj\Debug\net6.0\ATM-Uygulamasi.AssemblyInfo.cs
+C:\Users\gokha\Desktop\Pratikler\ATM-Uygulamasi\obj\Debug\net6.0\ATM-Uygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\gokha\Desktop\Pratikler\ATM-Uygulamasi\bin\Debug\net6.0\ATM-Uygulamasi.exe
+C:\Users\gokha\Desktop\Pratikler\ATM-Uygulamasi\bin\Debug\net6.0\ATM-Uygulamasi.deps.json
+C:\Users\gokha\Desktop\Pratikler\ATM-Uygulamasi\bin\Debug\net6.0\ATM-Uygulamasi.runtimeconfig.json
+C:\Users\gokha\Desktop\Pratikler\ATM-Uygulamasi\bin\Debug\net6.0\ATM-Uygulamasi.dll
+C:\Users\gokha\Desktop\Pratikler\ATM-Uygulamasi\bin\Debug\net6.0\ATM-Uygulamasi.pdb
+C:\Users\gokha\Desktop\Pratikler\ATM-Uygulamasi\obj\Debug\net6.0\ATM-Uygulamasi.dll
+C:\Users\gokha\Desktop\Pratikler\ATM-Uygulamasi\obj\Debug\net6.0\refint\ATM-Uygulamasi.dll
+C:\Users\gokha\Desktop\Pratikler\ATM-Uygulamasi\obj\Debug\net6.0\ATM-Uygulamasi.pdb
+C:\Users\gokha\Desktop\Pratikler\ATM-Uygulamasi\obj\Debug\net6.0\ATM-Uygulamasi.genruntimeconfig.cache
+C:\Users\gokha\Desktop\Pratikler\ATM-Uygulamasi\obj\Debug\net6.0\ref\ATM-Uygulamasi.dll
+C:\Users\gokha\Desktop\Pratikler\ATM-Uygulamasi\bin\Debug\net6.0\Serilog.dll
+C:\Users\gokha\Desktop\Pratikler\ATM-Uygulamasi\obj\Debug\net6.0\ATM-Uygulamasi.csproj.CopyComplete
